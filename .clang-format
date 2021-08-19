@@ -1,0 +1,8 @@
+BasedOnStyle: Chromium
+BinPackArguments: 'false'
+BinPackParameters: 'false'
+Cpp11BracedListStyle: 'false'
+ColumnLimit: '80'
+UseTab: Never
+IncludeBlocks: Preserve
+SortIncludes: 'false'
